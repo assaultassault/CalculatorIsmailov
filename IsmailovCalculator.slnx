@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="IsmailovCalculator/IsmailovCalculator.csproj" />
+  <Project Path="IsmailovCalculatorLib/IsmailovCalculatorLib.csproj" />
+  <Project Path="IsmailovCalculatorTests/IsmailovCalculatorTests.csproj" />
+</Solution>
